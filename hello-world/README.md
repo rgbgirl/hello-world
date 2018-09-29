@@ -4,3 +4,7 @@ study beginning... let's go!
 
 git clone https://github.com/rgbgirl/hello-world.git
 
+git add ..
+git commit ..
+git push origin
+
